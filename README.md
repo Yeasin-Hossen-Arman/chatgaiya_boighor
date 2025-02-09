@@ -1,2 +1,2 @@
 # chatgaiya_boighor
-# this is a roject
+# this is a project
