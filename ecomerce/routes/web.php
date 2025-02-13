@@ -13,3 +13,4 @@ Route::get('/contact',[userController::class, 'contact']) ->name('contact');
 Route::get('/service',[userController::class, 'service']) ->name('service');
 Route::get('/product',[userController::class, 'product']) ->name('product');
 Route::get('/pricing',[userController::class, 'pricing']) ->name('pricing');
+Route::get('/signin',[userController::class, 'signin']) ->name('signin');

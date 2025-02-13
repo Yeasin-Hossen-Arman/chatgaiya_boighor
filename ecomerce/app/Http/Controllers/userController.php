@@ -24,4 +24,7 @@ class userController extends Controller
     public function pricing(){
         return view('pricing');
     }
+    public function signin(){
+        return view('signin');
+    }
 }
